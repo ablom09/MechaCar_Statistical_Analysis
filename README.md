@@ -34,3 +34,8 @@ At a significance level of .05, we fail to reject our null hypothesis based on o
 
 # T-Test on Three Smaller Lots
 
+Lot 1: At a significance level of .05, we fail to reject our null hypothesis. 
+
+Lot 2: At a signifance level of .05, we would fail to reject our null hypothesis.
+
+Lot 3: At a significance level of .05, we would reject our null hypothesis. When observing the mean of our sample, being smaller than our previous two lots, this makes sense. Also unlike our previous two lots, the confidence interval for Lot 3 wouldn’t include the predicted population mean.
