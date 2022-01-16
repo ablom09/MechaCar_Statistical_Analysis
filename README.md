@@ -13,3 +13,17 @@ In order to help out Jeremy and upper managements concerns about a new prototype
 •	Given our p-vlaue of 5.35e-11 being significantly smaller than our significance level of .05%, we can safely state reject our null hypothesis. This would also further indicate that the slope of our model is non-zero.
 
 •	Furthermore, factoring in our r-squared value of .7149, (which suggests approximately 71% of our MPG predictions being determined by our model,) we can state the multiple regression model doesn’t predict MPG of the MechaCar protype efficiently.
+
+# Summary Statistics on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/91284661/149682522-ea3fc505-21ce-4300-b013-57ce35351d43.png)
+
+![image](https://user-images.githubusercontent.com/91284661/149682528-245f73f5-55e3-4459-9d24-ea335a19a117.png)
+
+In observing the variance over our dataset, we can determine that the current manufacturing data meets the 100 pounds per square inch variance limitation. Still, one looking over the three lots individually, we can spot that lot number 3 shows higher overall variance. Because of these findings, it is therefore reasonable to assume the possibility that lot number 3 doesn’t meet the necessary requirements involving suspension coils.
+
+# T-Test on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/91284661/149682568-15fc5bf3-eaf3-45ec-a900-a6212d14aba7.png)
+
+T-Test on Entire Lot
