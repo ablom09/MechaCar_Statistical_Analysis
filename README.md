@@ -26,4 +26,11 @@ In observing the variance over our dataset, we can determine that the current ma
 
 ![image](https://user-images.githubusercontent.com/91284661/149682568-15fc5bf3-eaf3-45ec-a900-a6212d14aba7.png)
 
-T-Test on Entire Lot
+# T-Test on Entire Lot
+
+At a significance level of .05, we fail to reject our null hypothesis based on our resulting p-value of .06028. From this, we cannot reject the fact that the sample mean may be equivalent to the true population mean.
+
+![image](https://user-images.githubusercontent.com/91284661/149682710-90352d74-d8e0-4dad-b187-884aaded735f.png)
+
+# T-Test on Three Smaller Lots
+
