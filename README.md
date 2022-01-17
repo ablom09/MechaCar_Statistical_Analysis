@@ -39,3 +39,21 @@ Lot 1: At a significance level of .05, we fail to reject our null hypothesis.
 Lot 2: At a signifance level of .05, we would fail to reject our null hypothesis.
 
 Lot 3: At a significance level of .05, we would reject our null hypothesis. When observing the mean of our sample, being smaller than our previous two lots, this makes sense. Also unlike our previous two lots, the confidence interval for Lot 3 wouldn’t include the predicted population mean.
+
+## Study Design: MechaCar vs Competition
+
+In order to help determine MechaCar’s prototype general standing within the market, I would recommend a study that focuses on the vehicle’s fuel efficiency. Gasoline prices will only ever trend towards higher prices in the long-term economy, and consumer reports frequently sight a vehicle’s fuel efficiency as a leading factor in a consumers choice of which vehicle they purchase.
+
+In compiling vehicle data over a reasonably sufficient time period, we can lay out the metrics of our analysis with the below list: 
+
+•	City and highway fuel efficiency: dependent variable
+
+•	Horse power: independent variable
+
+•	Vehicle weight: independent variable
+
+•	AWD capabilities: independent variable
+
+•	MPG: independent variable in addition to the MPG, AWD, and vehicle weight data that we already have, we would have to collect fuel efficiency and horse power data for the sample data set at hand.
+
+From this we would then test our vehicles standing within the market by first compiling similar MPG readings on similarly classed vehicles. We then form a Null Hypothesis test centered around whether our vehicle protype beats out the MPG of our competitors similarly classed vehicles.
